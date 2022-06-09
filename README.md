@@ -1,6 +1,10 @@
 # Libft
  #### Final Score [100/100](https://github.com/ldusty/Libft/blob/main/pass.png)
- A project to create a library of functions similar to those already written in C. All files must pass the [norminette](https://github.com/42School/norminette) check.
- MAN and freeBSD can help you. Details in [subject](https://github.com/ldusty/Libft/blob/main/en.subject.pdf).
+ A project to create a library of functions similar to those already written in C. MAN and freeBSD can help you.
+ Details in [subject](https://github.com/ldusty/Libft/blob/main/en.subject.pdf).
+ All files must pass the [norminette](https://github.com/42School/norminette) check.
  ## Usage
- ```make```
+ ```make```         - to compile
+ ```make clean```   - to remove objects
+ ```make fclean```  - to remove objects and binary files
+ ```make clean```   - to re-compile
